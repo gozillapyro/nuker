@@ -5,31 +5,31 @@
         "Show-Logs": true,
         "Show-License": true,
         "Spam-Amount": 250,
-        "Role-Amount": 50,
-        "Channel-Amount": 50
+        "Role-Amount": 114,
+        "Channel-Amount": 60
     },
     "Bot-Settings": {
-        "Token": "Your Bot Token",
-        "Prefix": "Saturn!",
+        "Token": "MTA2MTM1MTI0MzgyMzQ2NDUwOA.GXTOUd.6B6wWHzqMySb2JskXbxQ6MwXIFpSeVNSuKNRzQ",
+        "Prefix": "s!",
         "Bot": true
     },
     "Nuke-Settings": {
-        "Nick-Name": "niggerd",
-        "Server-Name": "discord.gg/lith",
+        "Nick-Name": "Hi",
+        "Server-Name": "South Coast Roleplay",
         "Rename-Channels": [
             "nuked",
             "sed",
-            "niggerd"
+            "nice"
         ],
         "Channel-Names": [
-            "async-x-saturn",
-            "cool-cat",
-            "niggerd"
+            "nuked",
+            "sed",
+            "nice"
         ],
         "Role-Names": [
-            "async-x-saturn",
-            "cool-cat",
-            "niggerd"
+            "nuked",
+            "sed",
+            "nice"
         ],
         "Webhook-Usernames": [
             ".gg/lith"
